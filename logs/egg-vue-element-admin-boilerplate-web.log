@@ -1,0 +1,204 @@
+2020-01-08 14:40:15,623 INFO 10065 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 14:40:22,860 INFO 10065 [-/127.0.0.1/-/76ms GET /] [access] 127.0.0.1: - GET / HTTP/200 768 - 38 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:46:22,786 INFO 10065 [-/127.0.0.1/-/1ms GET /user] [access] 127.0.0.1: - GET /user HTTP/404 - http://127.0.0.1:7001/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:46:26,110 INFO 10065 [-/127.0.0.1/-/7ms GET /] [access] 127.0.0.1: - GET / HTTP/200 768 - 6 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:46:31,200 INFO 10065 [-/127.0.0.1/-/1ms GET /admin?locale=en] [access] 127.0.0.1: - GET /admin?locale=en HTTP/200 772 http://127.0.0.1:7001/ 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:46:33,581 INFO 10065 [-/127.0.0.1/-/1ms GET /admin?locale=cn] [access] 127.0.0.1: - GET /admin?locale=cn HTTP/200 772 http://127.0.0.1:7001/admin?locale=en 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:46:40,979 INFO 10065 [-/127.0.0.1/-/0ms GET /login] [access] 127.0.0.1: - GET /login HTTP/404 - http://127.0.0.1:7001/admin?locale=cn 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:46:46,165 INFO 10065 [-/127.0.0.1/-/2ms GET /admin?locale=cn] [access] 127.0.0.1: - GET /admin?locale=cn HTTP/200 772 http://127.0.0.1:7001/admin?locale=en 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:46:49,663 INFO 10065 [-/127.0.0.1/-/20ms POST /admin/api/article/list] [access] 127.0.0.1: - POST /admin/api/article/list HTTP/200 2650 http://127.0.0.1:7001/admin/article/list 19 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 14:53:01,328 INFO 10065 [-/::1/-/3ms GET /] [access] ::1: - GET / HTTP/200 768 - 1 - PostmanRuntime/7.21.0
+2020-01-08 15:02:34,580 INFO 13461 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:03:51,286 INFO 13573 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:04:09,977 INFO 13723 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:04:12,010 INFO 13754 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:04:17,270 INFO 13796 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:04:18,959 INFO 13819 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:04:27,418 INFO 13884 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:04:51,634 INFO 13991 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:04,602 INFO 14065 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:07,556 INFO 14095 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:09,668 INFO 14118 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:09,876 INFO 14125 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:11,468 INFO 14166 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:12,400 INFO 14177 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:19,596 INFO 14224 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:46,980 INFO 14392 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:05:48,664 INFO 14419 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:05,388 INFO 14694 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:09,589 INFO 14734 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:13,265 INFO 14765 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:14,755 INFO 14788 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:18,047 INFO 14818 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:23,073 INFO 14849 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:24,824 INFO 14872 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:07:36,669 INFO 14913 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:00,738 INFO 15101 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:04,873 INFO 15139 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:07,173 INFO 15162 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:08,666 INFO 15192 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:15,899 INFO 15231 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:17,929 INFO 15254 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:21,647 INFO 15281 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:33,998 INFO 15321 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:08:59,910 INFO 15460 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:03,340 INFO 15493 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:06,341 INFO 15531 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:09,840 INFO 15562 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:11,942 INFO 15592 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:20,716 INFO 15624 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:43,172 INFO 15757 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:46,855 INFO 15791 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:48,450 INFO 15829 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:49,661 INFO 15848 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:09:55,011 INFO 15890 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:11,332 INFO 16081 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:17,894 INFO 16179 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:19,484 INFO 16202 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:23,213 INFO 16240 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:24,781 INFO 16271 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:29,251 INFO 16309 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:32,187 INFO 16357 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:36,389 INFO 16396 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:38,203 INFO 16427 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:10:42,981 INFO 16467 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:11:05,682 INFO 16540 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:11:07,173 INFO 16567 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:12:29,358 INFO 16670 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:12:32,097 INFO 16693 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:12:33,656 INFO 16717 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:12:42,884 INFO 16918 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:12:49,873 INFO 16918 [-/127.0.0.1/-/46ms GET /] [access] 127.0.0.1: - GET / HTTP/200 835 - 31 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:12:58,623 INFO 16918 [-/127.0.0.1/-/2ms GET /public/217d059d24136b667d33.hot-update.json] [access] 127.0.0.1: - GET /public/217d059d24136b667d33.hot-update.json HTTP/404 - http://127.0.0.1:7001/admin/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:13:00,803 INFO 16918 [-/::1/-/0ms GET /user] [access] ::1: - GET /user HTTP/404 - - 0 - PostmanRuntime/7.21.0
+2020-01-08 15:13:05,562 INFO 16918 [-/::1/-/0ms GET /user] [access] ::1: - GET /user HTTP/404 - - 0 - PostmanRuntime/7.21.0
+2020-01-08 15:13:23,078 INFO 17238 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:13:26,245 INFO 17276 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:15:58,570 INFO 17892 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:16:04,487 INFO 17892 [-/127.0.0.1/-/45ms GET /] [access] 127.0.0.1: - GET / HTTP/200 835 - 20 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:16:10,239 INFO 17892 [-/::1/-/2ms GET /user] [access] ::1: - GET /user HTTP/200 5 - 0 - PostmanRuntime/7.21.0
+2020-01-08 15:16:10,641 INFO 17892 [-/127.0.0.1/-/15ms GET /public/217d059d24136b667d33.hot-update.json] [access] 127.0.0.1: - GET /public/217d059d24136b667d33.hot-update.json HTTP/404 - http://127.0.0.1:7001/admin/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:16:16,032 INFO 17892 [-/127.0.0.1/-/1ms GET /user] [access] 127.0.0.1: - GET /user HTTP/200 5 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:16:44,939 INFO 18228 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:16:46,682 INFO 18255 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:16:47,679 INFO 18255 [-/127.0.0.1/-/9ms GET /user] [access] 127.0.0.1: - GET /user HTTP/404 - - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:16:51,835 INFO 18255 [-/127.0.0.1/-/3ms GET /api/user] [access] 127.0.0.1: - GET /api/user HTTP/200 5 - 2 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:21:26,425 INFO 18255 [-/127.0.0.1/-/19ms GET /admin] [access] 127.0.0.1: - GET /admin HTTP/200 829 - 18 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:21:26,739 INFO 18255 [-/127.0.0.1/-/3ms GET /public/217d059d24136b667d33.hot-update.json] [access] 127.0.0.1: - GET /public/217d059d24136b667d33.hot-update.json HTTP/404 - http://127.0.0.1:7001/admin/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:52:59,665 INFO 20824 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:53:05,883 INFO 20824 [-/127.0.0.1/-/53ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 22 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:53:15,681 INFO 20824 [-/127.0.0.1/-/19ms GET /public/217d059d24136b667d33.hot-update.json] [access] 127.0.0.1: - GET /public/217d059d24136b667d33.hot-update.json HTTP/404 - http://127.0.0.1:7001/admin/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:53:16,127 INFO 21117 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 15:53:18,127 INFO 21117 [-/127.0.0.1/-/29ms GET /] [access] 127.0.0.1: - GET / HTTP/200 835 - 20 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 15:53:18,440 INFO 21117 [-/127.0.0.1/-/5ms GET /public/217d059d24136b667d33.hot-update.json] [access] 127.0.0.1: - GET /public/217d059d24136b667d33.hot-update.json HTTP/404 - http://127.0.0.1:7001/admin/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:10:13,311 INFO 22379 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 16:10:19,785 INFO 22379 [-/127.0.0.1/-/30ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 18 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:10:23,538 INFO 22379 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:10:26,333 INFO 22379 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:10:29,638 INFO 22379 [-/127.0.0.1/-/12ms GET /public/217d059d24136b667d33.hot-update.json] [access] 127.0.0.1: - GET /public/217d059d24136b667d33.hot-update.json HTTP/404 - http://127.0.0.1:7001/admin/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:10:47,364 INFO 22682 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 16:10:47,740 INFO 22682 [-/127.0.0.1/-/33ms GET /] [access] 127.0.0.1: - GET / HTTP/200 835 - 22 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:10:48,074 INFO 22682 [-/127.0.0.1/-/6ms GET /public/217d059d24136b667d33.hot-update.json] [access] 127.0.0.1: - GET /public/217d059d24136b667d33.hot-update.json HTTP/404 - http://127.0.0.1:7001/admin/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:27:59,832 INFO 24140 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 16:28:34,866 INFO 24469 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 16:28:41,079 INFO 24469 [-/127.0.0.1/-/50ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 20 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:28:52,407 INFO 24859 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 16:28:59,114 INFO 24859 [-/127.0.0.1/-/36ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 22 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:29:01,504 INFO 24859 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:29:01,610 INFO 24859 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 http://127.0.0.1:7001/ 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:29:02,160 INFO 24859 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:29:02,442 INFO 24859 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:29:02,638 INFO 24859 [-/127.0.0.1/-/0ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:29:16,806 INFO 25257 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-08 16:29:23,203 INFO 25257 [-/127.0.0.1/-/33ms GET /] [access] 127.0.0.1: - GET / HTTP/200 835 - 21 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-08 16:29:24,611 INFO 25257 [-/127.0.0.1/-/2ms GET /] [access] 127.0.0.1: - GET / HTTP/200 835 http://127.0.0.1:7001/ 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:40:09,571 INFO 12830 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:40:18,371 INFO 12830 [-/127.0.0.1/-/45ms GET /] [access] 127.0.0.1: - GET / HTTP/200 768 - 29 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:40:40,838 INFO 12830 [-/127.0.0.1/-/2ms GET /login] [access] 127.0.0.1: - GET /login HTTP/404 - - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:40:46,128 INFO 12830 [-/127.0.0.1/-/2ms GET /admin/login] [access] 127.0.0.1: - GET /admin/login HTTP/200 773 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:41:59,310 INFO 13374 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:42:02,007 INFO 13374 [-/127.0.0.1/-/8ms GET /admin/login] [access] 127.0.0.1: - GET /admin/login HTTP/404 - - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:42:08,487 INFO 13374 [-/127.0.0.1/-/5ms GET /login] [access] 127.0.0.1: - GET /login HTTP/404 - - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:42:18,304 INFO 13423 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:42:25,933 INFO 13455 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:42:27,079 INFO 13455 [-/127.0.0.1/-/45ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 773 - 25 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:42:27,702 INFO 13489 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:42:38,103 INFO 13530 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:42:44,795 INFO 13565 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:42:49,941 INFO 13588 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:42:54,082 INFO 13618 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:43:56,805 INFO 13795 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:44:26,210 INFO 13832 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:44:28,710 INFO 13880 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:44:30,665 INFO 13906 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:44:35,125 INFO 13940 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:46:36,653 INFO 14639 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:46:37,629 INFO 14639 [-/127.0.0.1/-/12ms GET /api/v1/user] [access] 127.0.0.1: - GET /api/v1/user HTTP/200 5 - 2 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:47:18,340 INFO 14696 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:48:23,628 INFO 14879 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:48:25,846 INFO 14909 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:48:32,492 INFO 14945 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:48:36,116 INFO 14981 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:48:40,520 INFO 15011 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:48:43,734 INFO 15035 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:48:45,671 INFO 15035 [-/127.0.0.1/-/34ms GET /user] [access] 127.0.0.1: - GET /user HTTP/200 772 - 24 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:50:10,393 INFO 15035 [-/127.0.0.1/-/2ms GET /alogin] [access] 127.0.0.1: - GET /alogin HTTP/200 774 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:50:15,378 INFO 15035 [-/127.0.0.1/-/2ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 773 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:54:58,096 INFO 16035 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:55:04,654 INFO 16035 [-/127.0.0.1/-/31ms GET /] [access] 127.0.0.1: - GET / HTTP/200 835 - 18 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:56:43,281 INFO 16773 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:56:44,898 INFO 16810 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:56:54,423 INFO 16810 [-/127.0.0.1/-/30ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 20 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:57:45,314 INFO 16873 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:57:47,215 INFO 16903 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:57:48,121 INFO 16903 [-/127.0.0.1/-/33ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 24 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:57:54,057 INFO 16903 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 412 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:58:06,656 INFO 17024 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 17:58:13,071 INFO 17024 [-/127.0.0.1/-/33ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 20 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:58:15,989 INFO 17024 [-/127.0.0.1/-/2ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:59:16,224 INFO 17024 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 17:59:43,972 INFO 17024 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:00:09,011 INFO 17024 [-/127.0.0.1/-/2ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:00:54,973 INFO 17024 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:01:09,578 INFO 17024 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:02:35,357 INFO 17024 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:04:13,394 INFO 17024 [-/127.0.0.1/-/3ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:05:37,793 INFO 17024 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:08:22,831 INFO 17024 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:09:21,346 INFO 18866 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 18:09:27,020 INFO 18866 [-/127.0.0.1/-/56ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 35 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:10:23,463 INFO 18866 [-/127.0.0.1/-/22ms GET /public/9eb6febce55e7895f80a.hot-update.json] [access] 127.0.0.1: - GET /public/9eb6febce55e7895f80a.hot-update.json HTTP/200 879 http://127.0.0.1:7001/ 3 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:10:24,782 INFO 18866 [-/127.0.0.1/-/4ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 2 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:10:59,909 INFO 19515 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 18:11:05,133 INFO 19515 [-/127.0.0.1/-/39ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 20 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:11:48,428 INFO 19515 [-/127.0.0.1/-/2ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:14:13,207 INFO 19515 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:14:56,035 INFO 19515 [-/127.0.0.1/-/2ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:15:14,543 INFO 19515 [-/127.0.0.1/-/0ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:15:16,578 INFO 19515 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:15:58,000 INFO 19515 [-/127.0.0.1/-/2ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:16:17,286 INFO 19515 [-/127.0.0.1/-/1ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:16:48,842 INFO 19515 [-/127.0.0.1/-/1ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:16:52,392 INFO 19515 [-/127.0.0.1/-/1ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:17:17,626 INFO 19515 [-/127.0.0.1/-/6ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 5 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:18:26,153 INFO 19515 [-/127.0.0.1/-/2ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:19:02,007 INFO 19515 [-/127.0.0.1/-/1ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:19:17,767 INFO 19515 [-/127.0.0.1/-/2ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:20:06,200 INFO 19515 [-/127.0.0.1/-/4ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:20:09,231 INFO 19515 [-/127.0.0.1/-/1ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:20:11,871 INFO 19515 [-/127.0.0.1/-/1ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:20:17,866 INFO 19515 [-/127.0.0.1/-/0ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:20:19,279 INFO 19515 [-/127.0.0.1/-/2ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:20:24,409 INFO 19515 [-/127.0.0.1/-/1ms GET /loginsaa] [access] 127.0.0.1: - GET /loginsaa HTTP/200 839 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:20:37,851 INFO 19515 [-/127.0.0.1/-/2ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 2 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:21:15,229 INFO 19515 [-/127.0.0.1/-/2ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:21:19,098 INFO 19515 [-/127.0.0.1/-/1ms GET /logins] [access] 127.0.0.1: - GET /logins HTTP/200 837 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:21:26,313 INFO 21752 [egg-logview] mount log /home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/logs at http://127.0.0.1:7001/__logs
+2020-01-13 18:21:31,458 INFO 21752 [-/127.0.0.1/-/31ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 21 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:21:34,603 INFO 21752 [-/127.0.0.1/-/3ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 2 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:21:37,334 INFO 21752 [-/127.0.0.1/-/2ms GET /logina] [access] 127.0.0.1: - GET /logina HTTP/200 837 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:22:17,284 INFO 21752 [-/127.0.0.1/-/5ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 2 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:22:31,516 INFO 21752 [-/127.0.0.1/-/2ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 2 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:22:34,640 INFO 21752 [-/127.0.0.1/-/2ms GET /logina] [access] 127.0.0.1: - GET /logina HTTP/200 837 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:22:39,670 INFO 21752 [-/127.0.0.1/-/1ms GET /] [access] 127.0.0.1: - GET / HTTP/200 831 - 1 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+2020-01-13 18:22:59,691 INFO 21752 [-/127.0.0.1/-/1ms GET /login] [access] 127.0.0.1: - GET /login HTTP/200 836 - 0 - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36

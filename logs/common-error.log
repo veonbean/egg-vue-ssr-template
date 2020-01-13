@@ -1,0 +1,26 @@
+2020-01-08 16:28:35,063 ERROR 24436 nodejs.unhandledExceptionError: listen EADDRINUSE: address already in use :::9000
+    at Server.setupListenHandle [as _listen2] (net.js:1279:14)
+    at listenInCluster (net.js:1327:12)
+    at Server.listen (net.js:1414:7)
+    at Application.app.listen (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_koa@1.7.0@koa/lib/application.js:74:24)
+    at WebpackServer.createWebpackServer (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_webpack-tool@4.5.1@webpack-tool/lib/tool.js:257:9)
+    at webpackConfigList.forEach (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_webpack-tool@4.5.1@webpack-tool/lib/tool.js:124:12)
+    at Array.forEach (<anonymous>)
+    at WebpackServer.dev (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_webpack-tool@4.5.1@webpack-tool/lib/tool.js:121:23)
+    at build.dll (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-webpack@4.5.2@egg-webpack/lib/server.js:21:30)
+    at Object.exports.dll (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-webpack@4.5.2@egg-webpack/lib/build.js:14:7)
+    at WebpackServer.start (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-webpack@4.5.2@egg-webpack/lib/server.js:20:11)
+    at Messenger.agent.messenger.on (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-webpack@4.5.2@egg-webpack/agent.js:20:46)
+    at Messenger.emit (events.js:203:15)
+    at Messenger._onMessage (/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/lib/core/messenger/ipc.js:116:12)
+    at process.emit (events.js:198:13)
+    at emit (internal/child_process.js:832:12)
+code: "EADDRINUSE"
+errno: "EADDRINUSE"
+syscall: "listen"
+address: "::"
+port: 9000
+name: "unhandledExceptionError"
+pid: 24436
+hostname: abean-PC
+

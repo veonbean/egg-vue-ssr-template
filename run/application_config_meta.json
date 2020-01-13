@@ -1,0 +1,421 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js"
+  },
+  "vuessr": {
+    "layout": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+    "injectCss": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+    "doctype": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectJs": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "viewEngine": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+    },
+    "renderOptions": {
+      "runInNewContext": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+    "dir": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+    "encoding": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "env": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "level": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "outputJSON": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "buffer": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "appLogName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "coreLogName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "agentLogName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "errorLogName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+    "dir": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+    "maxAge": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+    "dynamic": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "keys": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+  "middleware": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+  "security": {
+    "csrf": {
+      "ignoreJSON": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+      "cookieName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "type": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "useSession": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "sessionName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "headerName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "bodyName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "queryName": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "refererWhiteList": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.default.js",
+      "value": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+    "protocolWhiteList": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+    "hsts": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.local.js",
+      "maxAge": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "includeSubdomains": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "value": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "value": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "policy": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js",
+      "checkAddress": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+    }
+  },
+  "view": {
+    "cache": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+    "root": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultExtension": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "defaultViewEngine": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-view-vue-ssr@3.3.1@egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+    "ignoreDirs": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+    "fastReady": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "overrideDefault": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+    "prefix": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js",
+    "staticHost": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logview@1.0.1@egg-logview/config/config.default.js"
+  },
+  "webpack": {
+    "webpackConfigList": {
+      "context": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+      "entry": {
+        "web": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+      },
+      "output": {
+        "filename": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "chunkFilename": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "path": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "publicPath": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+      },
+      "resolve": {
+        "extensions": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "alias": {
+          "vue": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+          "asset": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+          "component": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+          "framework": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+        }
+      },
+      "externals": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+      "resolveLoader": {
+        "modules": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+      },
+      "mode": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+      "devtool": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+      "target": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+      "node": {
+        "console": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "Buffer": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "setImmediate": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+      },
+      "module": {
+        "rules": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+      },
+      "plugins": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+      "optimization": {
+        "namedModules": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "namedChunks": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+        "runtimeChunk": {
+          "name": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+        },
+        "splitChunks": {
+          "name": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+          "chunks": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+          "minSize": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+          "minChunks": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+          "cacheGroups": {
+            "default": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+            "vendors": {
+              "name": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "chunks": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "minChunks": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "test": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+            },
+            "styles": {
+              "name": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "chunks": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "minChunks": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "test": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "enforce": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js",
+              "priority": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/config/config.local.js"
+            }
+          }
+        }
+      }
+    },
+    "port": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js",
+      "match": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-webpack@4.5.2@egg-webpack/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-security@2.7.1@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+      "development": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js",
+      "file": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "autoFields": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fieldSize": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fields": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fileSize": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "files": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "whitelist": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "tmpdir": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-multipart@2.10.1@egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "cors": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg-cors@2.2.3@egg-cors/config/config.default.js",
+  "env": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "name": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "cookies": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "proxy": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "maxIpsCount": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "maxProxyCount": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "protocolHeaders": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "ipHeaders": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "hostHeaders": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "version": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "description": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "scripts": {
+      "dev": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "start": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "debug": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "clean": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "build": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "lint": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "fix": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "ii": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "dependencies": {
+      "axios": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "cross-env": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-bin": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-cors": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-logger": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-scripts": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-validate": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-view-vue-ssr": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "element-ui": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "extend": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "font-awesome": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "lodash": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "lodash-id": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "lowdb": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "mockjs": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "moment": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "shortid": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "showdown": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "simplemde": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "vue": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "vue-hot-reload-api": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "vue-i18n": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "vue-material-input": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "vue-router": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "vuex": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "vuex-router-sync": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod-egg": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "easywebpack-cli": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "easywebpack-vue": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-logview": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-webpack": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "egg-webpack-vue": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "eslint": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "eslint-config-egg": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "eslint-plugin-vue": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "ip": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "url": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "author": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "license": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "homepage": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "baseDir": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "HOME": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "rundir": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "notFound": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "sitefile": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "middlewares": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "httpClient": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "encoding": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "formLimit": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "jsonLimit": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "textLimit": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "strict": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "depth": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "parameterLimit": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "onerror": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxSockets": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxFreeSockets": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxSockets": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "maxFreeSockets": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "logging": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "workerStartTimeout": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "serverTimeout": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "port": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+      "hostname": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js",
+    "responseTimeout": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+  },
+  "onClientError": "/home/abean/Documents/demos/egg&vue/egg-vue-element-admin-boilerplate/node_modules/_egg@2.26.0@egg/config/config.default.js"
+}

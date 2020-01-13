@@ -1,0 +1,28 @@
+{
+  "chunk/0.js": "/public/js/chunk/0.js",
+  "chunk/1.js": "/public/js/chunk/1.js",
+  "chunk/2.css": "/public/css/2.css",
+  "chunk/2.js": "/public/js/chunk/2.js",
+  "runtime.js": "/public/js/runtime.js",
+  "web.css": "/public/css/web.css",
+  "web.js": "/public/js/chunk/web.js",
+  "font/index.css": "/public/font/element-icons.woff",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "web.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/runtime.js",
+        "/public/js/chunk/web.js"
+      ],
+      "css": [
+        "/public/css/web.css"
+      ]
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}
