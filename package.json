@@ -13,7 +13,7 @@
     "ii": "npm install --registry https://registry.npm.taobao.org"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.19.1",
     "cross-env": "^5.0.0",
     "egg": "^2.1.0",
     "egg-bin": "^4.3.7",
@@ -51,6 +51,7 @@
     "eslint": "^4.19.1",
     "eslint-config-egg": "^5.0.0",
     "eslint-plugin-vue": "^4.4.0",
+    "imagemin-webpack-plugin": "^2.4.2",
     "ip": "^1.1.5"
   },
   "engines": {
