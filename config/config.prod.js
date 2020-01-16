@@ -19,8 +19,9 @@ module.exports = app => {
   };
 
   exports.logger = {
-    consoleLevel: 'DEBUG',
-    dir: path.join(app.baseDir, 'logs')
+    consoleLevel: 'INFO',
+    dir: path.join(app.baseDir, 'logs'),
+    disableConsoleAfterReady: false, // 生产环境下打开日志输出
   };
 
   exports.static = {

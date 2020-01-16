@@ -25,6 +25,8 @@
     "element-ui": "^2.0.8",
     "extend": "~3.0.0",
     "font-awesome": "^4.7.0",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
     "lodash": "^4.17.4",
     "lodash-id": "^0.14.0",
     "lowdb": "^1.0.0",
