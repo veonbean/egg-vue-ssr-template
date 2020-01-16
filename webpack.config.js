@@ -7,5 +7,12 @@ module.exports = {
     web: 'app/web/page/index.js'
   },
   cssExtract: true,
-  dll: ['vue', 'vue-router', 'vuex', 'axios', 'vuex-router-sync', 'vue-i18n']
+  dll: ['vue', 'vue-router', 'vuex', 'axios', 'vuex-router-sync', 'vue-i18n'],
+  module: {
+    rules: [
+      {
+        less: true,
+      }
+    ]
+  }
 };
